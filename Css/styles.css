@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.titlecard h1{
+    font-family: Oxygen;
+    text-align: center;
+    padding: 2%;
+    font-weight: 400;
+    font-size: 120px;
+    color: #B18FCF;
+}
+.navbar-brand{
+    width: 200px;
+}
+.nav-item{
+    padding: 0 2rem 0 2rem;
+    font-weight: 600;
+}
+.cheems{
+    text-align: center;
+}
+.cheems img{
+    width: 130%;
+}
+.titlecard{
+    text-align: center;
+    margin-top: 100px;
+}
+.btn{
+    margin: 0 25px;
+}
+.second{
+    padding: 2% 0;
+    background-color: #B18FCF;
+}   
+.feature-box{
+    padding: 2% 10%;
+    text-align: center;
+}
+.feature-box i{
+    color: white;
+}
+.feature-box h3{
+    font-weight: 700;
+}
+.feature-box p{
+    font-weight: 300;
+}
+.carousel-item{
+    /* background-color: #cce6f4; */
+    text-align: center;
+    padding: 5% 0 1% 0;
+}
+.carousel-item h3{
+    font-weight: 800;    
+}
+.carousel-item img{
+    height: 100px;
+    border-radius: 100%;
+    margin: 2% 0 1% 0;
+}
+hr{
+    color: #B18FCF;
+}
